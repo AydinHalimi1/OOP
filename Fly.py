@@ -22,7 +22,7 @@ print("The housefly can fly up to",housefly.get_miles(),"miles")
 
 
 def main():
-    my_insect = i.insect
+    my_insect = I.insect
 
     print('This is how many miles the insect flies :', my_insect.flight())
 
