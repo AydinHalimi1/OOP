@@ -14,5 +14,6 @@ def main():
     cellphone.set_manufact(manu)
     cellphone.set_model(model)
     cellphone.set_retail_price(price)
+    print(cellphone)
 
 main()
